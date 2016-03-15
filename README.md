@@ -1,6 +1,9 @@
 #BlicBot
 overVote + or - on your favourite comments on http://blic.rs
+
 Just for fun :D
+
+Runs on python 2.7
 
 ## Usage
 ```python
