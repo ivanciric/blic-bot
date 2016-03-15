@@ -2,7 +2,7 @@
 overVote + or - on your favourite comments on http://blic.rs
 Just for fun :D
 
-## Usge
+## Usage
 ```python
 python blic-bot.py
 ```
