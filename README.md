@@ -1,6 +1,6 @@
 #BlicBot
-Vote + or - on your favourite comments on http://blic.rs
-
+overVote + or - on your favourite comments on http://blic.rs
+Just for fun :D
 
 ## Usge
 ```python
