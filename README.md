@@ -6,7 +6,10 @@ Just for fun :D
 ```python
 python blic-bot.py
 ```
-Video
+
+[![CC0](blic_bot_usage.gif)]
+
+Video download
 https://www.dropbox.com/s/lzyytj3b9ya67rc/blic-bot-usage.mkv?dl=0
 
 
